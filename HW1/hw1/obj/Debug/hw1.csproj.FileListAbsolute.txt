@@ -1,6 +1,0 @@
-C:\Users\Eric Chen\Desktop\CptS 322\hw1\hw1\bin\Debug\hw1.exe.config
-C:\Users\Eric Chen\Desktop\CptS 322\hw1\hw1\bin\Debug\hw1.exe
-C:\Users\Eric Chen\Desktop\CptS 322\hw1\hw1\bin\Debug\hw1.pdb
-C:\Users\Eric Chen\Desktop\CptS 322\hw1\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
-C:\Users\Eric Chen\Desktop\CptS 322\hw1\hw1\obj\Debug\hw1.exe
-C:\Users\Eric Chen\Desktop\CptS 322\hw1\hw1\obj\Debug\hw1.pdb

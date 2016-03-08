@@ -1,9 +1,0 @@
-C:\Users\Eric Chen\Desktop\CptS 322\HW2\HW2\bin\Debug\HW2.exe.config
-C:\Users\Eric Chen\Desktop\CptS 322\HW2\HW2\obj\Debug\HW2.csprojResolveAssemblyReference.cache
-C:\Users\Eric Chen\Desktop\CptS 322\HW2\HW2\obj\Debug\HW2.Form1.resources
-C:\Users\Eric Chen\Desktop\CptS 322\HW2\HW2\obj\Debug\HW2.Properties.Resources.resources
-C:\Users\Eric Chen\Desktop\CptS 322\HW2\HW2\obj\Debug\HW2.csproj.GenerateResource.Cache
-C:\Users\Eric Chen\Desktop\CptS 322\HW2\HW2\bin\Debug\HW2.exe
-C:\Users\Eric Chen\Desktop\CptS 322\HW2\HW2\bin\Debug\HW2.pdb
-C:\Users\Eric Chen\Desktop\CptS 322\HW2\HW2\obj\Debug\HW2.exe
-C:\Users\Eric Chen\Desktop\CptS 322\HW2\HW2\obj\Debug\HW2.pdb

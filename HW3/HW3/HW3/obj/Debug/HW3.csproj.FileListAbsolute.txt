@@ -1,9 +1,0 @@
-C:\Users\Eric Chen\Desktop\CptS 322\HW3\HW3\bin\Debug\HW3.exe.config
-C:\Users\Eric Chen\Desktop\CptS 322\HW3\HW3\bin\Debug\HW3.exe
-C:\Users\Eric Chen\Desktop\CptS 322\HW3\HW3\bin\Debug\HW3.pdb
-C:\Users\Eric Chen\Desktop\CptS 322\HW3\HW3\obj\Debug\HW3.csprojResolveAssemblyReference.cache
-C:\Users\Eric Chen\Desktop\CptS 322\HW3\HW3\obj\Debug\HW3.Form1.resources
-C:\Users\Eric Chen\Desktop\CptS 322\HW3\HW3\obj\Debug\HW3.Properties.Resources.resources
-C:\Users\Eric Chen\Desktop\CptS 322\HW3\HW3\obj\Debug\HW3.csproj.GenerateResource.Cache
-C:\Users\Eric Chen\Desktop\CptS 322\HW3\HW3\obj\Debug\HW3.exe
-C:\Users\Eric Chen\Desktop\CptS 322\HW3\HW3\obj\Debug\HW3.pdb
